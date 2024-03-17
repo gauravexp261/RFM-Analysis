@@ -4,11 +4,10 @@ RFM (Recency, Frequency, Monetary) analysis is a powerful tool in the world of d
 
 ## Recency, Frequency, Monetary (RFM) Analysis
 
-Recency refers to how recently a customer has made a purchase. 
-Frequency measures how often a customer makes a purchase.
-Monetary represents the amount of money a customer spends. 
-By combining these three dimensions, businesses can create segments that reflect different levels of customer engagement and value.
-
+* Recency refers to how recently a customer has made a purchase. 
+* Frequency measures how often a customer makes a purchase.
+* Monetary represents the amount of money a customer spends. 
+* By combining these three dimensions, businesses can create segments that reflect different levels of customer engagement and value.
 One common approach to RFM analysis is to assign a score to each dimension for every customer. For example, customers who made a purchase more recently might receive a higher recency score, while those who spend more money might receive a higher monetary score. These scores can then be used to group customers into segments.
 
 ## Further more we can analyse which segement to focus, in this analysis, I conclude, more focus should be on customers who are "slipping away, cannot loose category".
