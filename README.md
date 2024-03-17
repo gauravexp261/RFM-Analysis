@@ -10,5 +10,12 @@ RFM (Recency, Frequency, Monetary) analysis is a powerful tool in the world of d
 * By combining these three dimensions, businesses can create segments that reflect different levels of customer engagement and value.
 One common approach to RFM analysis is to assign a score to each dimension for every customer. For example, customers who made a purchase more recently might receive a higher recency score, while those who spend more money might receive a higher monetary score. These scores can then be used to group customers into segments.
 
+## SQL Analysis
+* The first part of the query calculates the RFM scores for each customer, including the recency, frequency, and monetary values.
+* Second part of SQL query uses the NTILE function to assign each customer a quartile for each RFM value.
+* Finally, the query assigns an RFM segment to each customer based on their quartile values, such as "lost_customer" "slipping away, cannot lose", "new customers" etc.
+
 ## Further more we can analyse which segement to focus, in this analysis, I conclude, more focus should be on customers who are "slipping away, cannot loose category".
 Given that this category represents 24% of all customers, it is crucial for the marketing team to investigate why these customers are not purchasing products. By identifying the underlying reasons, the team can develop targeted marketing strategies to attract and engage this segment.
+
+## Visual Analysis is in Power BI Report
